@@ -13,7 +13,7 @@ Uses [fire](https://google.github.io/python-fire/guide/) and [questionary](https
 ## Installation Guide
 
 1. Download this app. 
-![App CLI](/data/images/get_app.png "CLI interface")
+![App CLI](/data/images/get_app.png?raw=true "CLI interface")
 
 2. Install `Fire` and `Questionary` libraries into the app directory
 
@@ -30,13 +30,13 @@ This section should include screenshots, code blocks, or animations explaining h
 1. In app directory: do `python app.py`.
 2. At the first prompt enter "loan_qualifier_app\data\daily_rate_sheet.csv".
 3. Enter the relevant data according to your needs.
-![App CLI](/data/images/cli_menu.png "CLI interface")
+![App CLI](/data/images/cli_menu.png?raw=true "CLI interface")
 
 4. Enter the path to save your file.
-![App CLI](/data/images/cli_savefile.png "Sample Path")
+![App CLI](/data/images/cli_savefile.png?raw=true "Sample Path")
 
 5. Collect your data at your chosen location.
-![App CLI](/data/images/savedfile.png "Find your data")
+![App CLI](/data/images/savedfile.png?raw=true "Find your data")
 
 ---
 
