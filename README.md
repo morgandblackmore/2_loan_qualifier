@@ -30,13 +30,13 @@ This section should include screenshots, code blocks, or animations explaining h
 1. In app directory: do `python app.py`.
 2. At the first prompt enter "loan_qualifier_app\data\daily_rate_sheet.csv".
 3. Enter the relevant data according to your needs.
-![App CLI](/data/images/cli_menu.png?raw=true "CLI interface")
+![App CLI](loan_qualifier_app/data/images/cli_menu.png?raw=true "CLI interface")
 
 4. Enter the path to save your file.
-![App CLI](/data/images/cli_savefile.png?raw=true "Sample Path")
+![App CLI](loan_qualifier_app/data/images/cli_savefile.png?raw=true "Sample Path")
 
 5. Collect your data at your chosen location.
-![App CLI](/data/images/savedfile.png?raw=true "Find your data")
+![App CLI](loan_qualifier_app/data/images/savedfile.png?raw=true "Find your data")
 
 ---
 
