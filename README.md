@@ -13,7 +13,7 @@ Uses [fire](https://google.github.io/python-fire/guide/) and [questionary](https
 ## Installation Guide
 
 1. Download this app. 
-![App CLI](/data/images/get_app.png?raw=true "CLI interface")
+![App CLI](loan_qualifier_app/data/images/get_app.png?raw=true "CLI interface")
 
 2. Install `Fire` and `Questionary` libraries into the app directory
 
