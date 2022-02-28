@@ -25,9 +25,7 @@ pip install fire questionary
 
 ## Usage
 
-This section should include screenshots, code blocks, or animations explaining how to use your project.
-
-1. In app directory: do `python app.py`.
+1. In app directory type: `python app.py`.
 2. At the first prompt enter "loan_qualifier_app\data\daily_rate_sheet.csv".
 3. Enter the relevant data according to your needs.
 ![App CLI](loan_qualifier_app/data/images/cli_menu.png?raw=true "CLI interface")
